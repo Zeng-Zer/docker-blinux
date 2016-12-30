@@ -49,3 +49,4 @@ RUN pip3 install -Iv pexpect==4.0.1
 
 
 ADD .bashrc /etc/skel/.bashrc
+ADD mouli.py /bin/mouli
