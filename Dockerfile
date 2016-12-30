@@ -49,6 +49,7 @@ RUN pip3 install -Iv pexpect==4.0.1
 
 
 ADD .bashrc /etc/skel/.bashrc
+ADD .bashrc /root/.bashrc
 
 ADD mouli.py /bin/mouli
 RUN chmod 755 /bin/mouli
