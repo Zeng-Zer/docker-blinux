@@ -1,4 +1,4 @@
-FROM opensuse:13.2
+FROM opensuse:42.2
 
 MAINTAINER David Zeng <david.zeng@epitech.eu>
 
